@@ -33,7 +33,7 @@
 
 ### 5. Output Generation (output.py)
 
-- **Description:** Generate posts in the style of influencers based on user prompts and preferences.
+- **Description:** Generate posts in the style of influencers based on user prompts and preferences. It creates an user interface using Gradio, where user can input prompts and desired length of tweets and get output.
 - **File:** `output.py`
 - **Methods:**
   - `user_interface()`: Generates model output using fine-tuned language model.
