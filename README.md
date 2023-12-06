@@ -1,5 +1,6 @@
 # Automated-Influencer-Tweet-Generation
 In this project, we build a model which can generate tweets similar to the style of tweets of influencers.
+This project involves fine tuning a pre trained LLM,in this case GPT2, and leveraging its capabilities to generate tweets based on prompts, similar to the style of influencers on Twitter.
 
 For this project, we have taken the example of Influencer Justin Welsh.
 
